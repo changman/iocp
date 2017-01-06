@@ -2,11 +2,11 @@
 //
 
 #include "stdafx.h"
-#include "..\SocketAccepter.h"
-#include "..\SocketConnector.h"
-#include "..\SocketSession.h"
-#include "..\IOCPEventContoller.h"
-#include "..\SocketContext.h"
+#include "..\\src\\SocketAccepter.h"
+#include "..\\src\\SocketConnector.h"
+#include "..\\src\\SocketSession.h"
+#include "..\\src\\IOCPEventContoller.h"
+#include "..\\src\\SocketContext.h"
 
 #include <vector>
 
